@@ -3468,6 +3468,14 @@ ol.linenums li {
   width: 190px;
   height: 132px;
 }
+#aniimated-thumbnials1 .demo-gallery a {
+  width: 190px;
+  height: 132px;
+}
+#aniimated-thumbnials2 .demo-gallery a {
+  width: 190px;
+  height: 132px;
+}
 .sample-code {
   text-align: left;
 }

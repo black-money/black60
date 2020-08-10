@@ -233,12 +233,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials1');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb1 = $('#aniimated-thumbnials1');
+    if ($animThumb1.length) {
+        $animThumb1.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb1[0], {
                 thumbnail: true
             });
         });
@@ -246,12 +246,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials2');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb2 = $('#aniimated-thumbnials2');
+    if ($animThumb2.length) {
+        $animThumb2.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb2[0], {
                 thumbnail: true
             });
         });
@@ -259,12 +259,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials3');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb3 = $('#aniimated-thumbnials3');
+    if ($animThumb3.length) {
+        $animThumb3.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb3[0], {
                 thumbnail: true
             });
         });
@@ -272,12 +272,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials4');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb4 = $('#aniimated-thumbnials4');
+    if ($animThumb4.length) {
+        $animThumb4.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb4[0], {
                 thumbnail: true
             });
         });
@@ -285,12 +285,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials5');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb5 = $('#aniimated-thumbnials5');
+    if ($animThumb5.length) {
+        $animThumb5.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb5[0], {
                 thumbnail: true
             });
         });
@@ -298,12 +298,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials6');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb6 = $('#aniimated-thumbnials6');
+    if ($animThumb6.length) {
+        $animThumb6.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb6[0], {
                 thumbnail: true
             });
         });
@@ -311,12 +311,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials7');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb7 = $('#aniimated-thumbnials7');
+    if ($animThumb7.length) {
+        $animThumb7.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb7[0], {
                 thumbnail: true
             });
         });
@@ -324,12 +324,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials8');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb8 = $('#aniimated-thumbnials8');
+    if ($animThumb8.length) {
+        $animThumb8.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb8[0], {
                 thumbnail: true
             });
         });
@@ -337,12 +337,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials9');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb9 = $('#aniimated-thumbnials9');
+    if ($animThumb9.length) {
+        $animThumb9.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb9[0], {
                 thumbnail: true
             });
         });
@@ -350,12 +350,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials10');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb10 = $('#aniimated-thumbnials10');
+    if ($animThumb10.length) {
+        $animThumb10.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb10[0], {
                 thumbnail: true
             });
         });
@@ -363,12 +363,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials11');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb11 = $('#aniimated-thumbnials11');
+    if ($animThumb11.length) {
+        $animThumb11.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb11[0], {
                 thumbnail: true
             });
         });
@@ -376,12 +376,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials12');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb12 = $('#aniimated-thumbnials12');
+    if ($animThumb12.length) {
+        $animThumb12.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb12[0], {
                 thumbnail: true
             });
         });
@@ -389,12 +389,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials13');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb13 = $('#aniimated-thumbnials13');
+    if ($animThumb13.length) {
+        $animThumb13.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb13[0], {
                 thumbnail: true
             });
         });
@@ -402,12 +402,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials14');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb14 = $('#aniimated-thumbnials14');
+    if ($animThumb14.length) {
+        $animThumb14.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb14[0], {
                 thumbnail: true
             });
         });
@@ -415,12 +415,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials15');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb15 = $('#aniimated-thumbnials15');
+    if ($animThumb15.length) {
+        $animThumb15.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb15[0], {
                 thumbnail: true
             });
         });
@@ -428,12 +428,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials16');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb16 = $('#aniimated-thumbnials16');
+    if ($animThumb16.length) {
+        $animThumb16.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb16[0], {
                 thumbnail: true
             });
         });
@@ -441,12 +441,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials17');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb17 = $('#aniimated-thumbnials17');
+    if ($animThumb17.length) {
+        $animThumb17.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb17[0], {
                 thumbnail: true
             });
         });
@@ -454,12 +454,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials18');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb18 = $('#aniimated-thumbnials18');
+    if ($animThumb18.length) {
+        $animThumb18.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb18[0], {
                 thumbnail: true
             });
         });
@@ -467,12 +467,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials19');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb19 = $('#aniimated-thumbnials19');
+    if ($animThumb19.length) {
+        $animThumb19.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb19[0], {
                 thumbnail: true
             });
         });
@@ -480,12 +480,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials20');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb20 = $('#aniimated-thumbnials20');
+    if ($animThumb20.length) {
+        $animThumb20.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb20[0], {
                 thumbnail: true
             });
         });
@@ -493,12 +493,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials21');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb21 = $('#aniimated-thumbnials21');
+    if ($animThumb21.length) {
+        $animThumb21.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb21[0], {
                 thumbnail: true
             });
         });
@@ -506,12 +506,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials22');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb22 = $('#aniimated-thumbnials22');
+    if ($animThumb22.length) {
+        $animThumb22.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb22[0], {
                 thumbnail: true
             });
         });
@@ -519,12 +519,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials23');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb23 = $('#aniimated-thumbnials23');
+    if ($animThumb23.length) {
+        $animThumb23.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb23[0], {
                 thumbnail: true
             });
         });
@@ -532,12 +532,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials24');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb24 = $('#aniimated-thumbnials24');
+    if ($animThumb24.length) {
+        $animThumb24.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb24[0], {
                 thumbnail: true
             });
         });
@@ -545,12 +545,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials25');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb25 = $('#aniimated-thumbnials25');
+    if ($animThumb25.length) {
+        $animThumb25.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb25[0], {
                 thumbnail: true
             });
         });
@@ -558,12 +558,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials26');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb26 = $('#aniimated-thumbnials26');
+    if ($animThumb26.length) {
+        $animThumb26.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb26[0], {
                 thumbnail: true
             });
         });
@@ -571,12 +571,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials27');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb27 = $('#aniimated-thumbnials27');
+    if ($animThumb27.length) {
+        $animThumb27.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb27[0], {
                 thumbnail: true
             });
         });
@@ -584,12 +584,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials28');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb28 = $('#aniimated-thumbnials28');
+    if ($animThumb28.length) {
+        $animThumb28.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb28[0], {
                 thumbnail: true
             });
         });
@@ -597,12 +597,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials29');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb29 = $('#aniimated-thumbnials29');
+    if ($animThumb29.length) {
+        $animThumb29.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb29[0], {
                 thumbnail: true
             });
         });
@@ -610,12 +610,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials30');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb30 = $('#aniimated-thumbnials30');
+    if ($animThumb30.length) {
+        $animThumb30.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb30[0], {
                 thumbnail: true
             });
         });
@@ -623,12 +623,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials31');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb31 = $('#aniimated-thumbnials31');
+    if ($animThumb31.length) {
+        $animThumb31.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb31[0], {
                 thumbnail: true
             });
         });
@@ -636,12 +636,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials32');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb32 = $('#aniimated-thumbnials32');
+    if ($animThumb32.length) {
+        $animThumb32.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb32[0], {
                 thumbnail: true
             });
         });
@@ -649,12 +649,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials33');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb33 = $('#aniimated-thumbnials33');
+    if ($animThumb33.length) {
+        $animThumb33.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb33[0], {
                 thumbnail: true
             });
         });
@@ -662,12 +662,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials34');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb34 = $('#aniimated-thumbnials34');
+    if ($animThumb34.length) {
+        $animThumb34.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb34[0], {
                 thumbnail: true
             });
         });
@@ -675,12 +675,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials35');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb35 = $('#aniimated-thumbnials35');
+    if ($animThumb35.length) {
+        $animThumb35.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb35[0], {
                 thumbnail: true
             });
         });
@@ -688,12 +688,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials36');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb36 = $('#aniimated-thumbnials36');
+    if ($animThumb36.length) {
+        $animThumb36.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb36[0], {
                 thumbnail: true
             });
         });
@@ -701,12 +701,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials37');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb37 = $('#aniimated-thumbnials37');
+    if ($animThumb37.length) {
+        $animThumb37.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb37[0], {
                 thumbnail: true
             });
         });
@@ -714,12 +714,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials38');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb38 = $('#aniimated-thumbnials38');
+    if ($animThumb38.length) {
+        $animThumb38.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb38[0], {
                 thumbnail: true
             });
         });
@@ -727,12 +727,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials39');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb39 = $('#aniimated-thumbnials39');
+    if ($animThumb39.length) {
+        $animThumb39.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb39[0], {
                 thumbnail: true
             });
         });
@@ -740,12 +740,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials40');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb40 = $('#aniimated-thumbnials40');
+    if ($animThumb40.length) {
+        $animThumb40.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb40[0], {
                 thumbnail: true
             });
         });
@@ -753,12 +753,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials41');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb41 = $('#aniimated-thumbnials41');
+    if ($animThumb41.length) {
+        $animThumb41.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb41[0], {
                 thumbnail: true
             });
         });
@@ -766,12 +766,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials42');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb42 = $('#aniimated-thumbnials42');
+    if ($animThumb42.length) {
+        $animThumb42.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb42[0], {
                 thumbnail: true
             });
         });
@@ -779,12 +779,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials43');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb43 = $('#aniimated-thumbnials43');
+    if ($animThumb43.length) {
+        $animThumb43.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb43[0], {
                 thumbnail: true
             });
         });
@@ -792,12 +792,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials44');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb44 = $('#aniimated-thumbnials44');
+    if ($animThumb44.length) {
+        $animThumb44.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb44[0], {
                 thumbnail: true
             });
         });
@@ -805,12 +805,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials45');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb45 = $('#aniimated-thumbnials45');
+    if ($animThumb45.length) {
+        $animThumb45.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb45[0], {
                 thumbnail: true
             });
         });
@@ -818,12 +818,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials46');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb46 = $('#aniimated-thumbnials46');
+    if ($animThumb46.length) {
+        $animThumb46.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb46[0], {
                 thumbnail: true
             });
         });
@@ -831,12 +831,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials47');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb47 = $('#aniimated-thumbnials47');
+    if ($animThumb47.length) {
+        $animThumb47.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb47[0], {
                 thumbnail: true
             });
         });
@@ -844,12 +844,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials48');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb48 = $('#aniimated-thumbnials48');
+    if ($animThumb48.length) {
+        $animThumb48.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb48[0], {
                 thumbnail: true
             });
         });
@@ -857,12 +857,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials49');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb49 = $('#aniimated-thumbnials49');
+    if ($animThumb49.length) {
+        $animThumb49.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb49[0], {
                 thumbnail: true
             });
         });
@@ -870,12 +870,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials50');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb50 = $('#aniimated-thumbnials50');
+    if ($animThumb50.length) {
+        $animThumb50.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb50[0], {
                 thumbnail: true
             });
         });
@@ -883,12 +883,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials51');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb51 = $('#aniimated-thumbnials51');
+    if ($animThumb51.length) {
+        $animThumb51.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb51[0], {
                 thumbnail: true
             });
         });
@@ -896,12 +896,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials52');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb52 = $('#aniimated-thumbnials52');
+    if ($animThumb52.length) {
+        $animThumb52.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb52[0], {
                 thumbnail: true
             });
         });
@@ -909,12 +909,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials53');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb53 = $('#aniimated-thumbnials53');
+    if ($animThumb53.length) {
+        $animThumb53.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb53[0], {
                 thumbnail: true
             });
         });
@@ -922,12 +922,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials54');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb54 = $('#aniimated-thumbnials54');
+    if ($animThumb54.length) {
+        $animThumb54.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb54[0], {
                 thumbnail: true
             });
         });
@@ -935,12 +935,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials55');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb55 = $('#aniimated-thumbnials55');
+    if ($animThumb55.length) {
+        $animThumb55.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb55[0], {
                 thumbnail: true
             });
         });
@@ -948,12 +948,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials56');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb56 = $('#aniimated-thumbnials56');
+    if ($animThumb56.length) {
+        $animThumb56.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb56[0], {
                 thumbnail: true
             });
         });
@@ -961,12 +961,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials57');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb57 = $('#aniimated-thumbnials57');
+    if ($animThumb57.length) {
+        $animThumb57.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb57[0], {
                 thumbnail: true
             });
         });
@@ -974,12 +974,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials58');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb58 = $('#aniimated-thumbnials58');
+    if ($animThumb58.length) {
+        $animThumb58.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb58[0], {
                 thumbnail: true
             });
         });
@@ -987,12 +987,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials59');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb59 = $('#aniimated-thumbnials59');
+    if ($animThumb59.length) {
+        $animThumb59.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb59[0], {
                 thumbnail: true
             });
         });
@@ -1000,12 +1000,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials60');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb60 = $('#aniimated-thumbnials60');
+    if ($animThumb60.length) {
+        $animThumb60.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb60[0], {
                 thumbnail: true
             });
         });
@@ -1013,12 +1013,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials61');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb61 = $('#aniimated-thumbnials61');
+    if ($animThumb61.length) {
+        $animThumb61.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb61[0], {
                 thumbnail: true
             });
         });
@@ -1026,12 +1026,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials62');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb62 = $('#aniimated-thumbnials62');
+    if ($animThumb62.length) {
+        $animThumb62.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb62[0], {
                 thumbnail: true
             });
         });
@@ -1039,12 +1039,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials63');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb63 = $('#aniimated-thumbnials63');
+    if ($animThumb63.length) {
+        $animThumb63.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb63[0], {
                 thumbnail: true
             });
         });
@@ -1052,12 +1052,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials64');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb64 = $('#aniimated-thumbnials64');
+    if ($animThumb64.length) {
+        $animThumb64.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb64[0], {
                 thumbnail: true
             });
         });
@@ -1065,12 +1065,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials65');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb65 = $('#aniimated-thumbnials65');
+    if ($animThumb65.length) {
+        $animThumb65.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb65[0], {
                 thumbnail: true
             });
         });
@@ -1078,12 +1078,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials66');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb66 = $('#aniimated-thumbnials66');
+    if ($animThumb66.length) {
+        $animThumb66.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb66[0], {
                 thumbnail: true
             });
         });
@@ -1091,12 +1091,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials67');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb67 = $('#aniimated-thumbnials67');
+    if ($animThumb67.length) {
+        $animThumb67.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb67[0], {
                 thumbnail: true
             });
         });
@@ -1104,12 +1104,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials68');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb68 = $('#aniimated-thumbnials68');
+    if ($animThumb68.length) {
+        $animThumb68.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb68[0], {
                 thumbnail: true
             });
         });
@@ -1117,12 +1117,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials69');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb69 = $('#aniimated-thumbnials69');
+    if ($animThumb69.length) {
+        $animThumb69.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb69[0], {
                 thumbnail: true
             });
         });
@@ -1130,12 +1130,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials70');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb70 = $('#aniimated-thumbnials70');
+    if ($animThumb70.length) {
+        $animThumb70.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb70[0], {
                 thumbnail: true
             });
         });
@@ -1143,12 +1143,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials71');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb71 = $('#aniimated-thumbnials71');
+    if ($animThumb71.length) {
+        $animThumb71.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb71[0], {
                 thumbnail: true
             });
         });
@@ -1156,12 +1156,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials72');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb72 = $('#aniimated-thumbnials72');
+    if ($animThumb72.length) {
+        $animThumb72.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb72[0], {
                 thumbnail: true
             });
         });
@@ -1169,12 +1169,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials73');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb73 = $('#aniimated-thumbnials73');
+    if ($animThumb73.length) {
+        $animThumb73.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb73[0], {
                 thumbnail: true
             });
         });
@@ -1182,12 +1182,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials74');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb74 = $('#aniimated-thumbnials74');
+    if ($animThumb74.length) {
+        $animThumb74.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb74[0], {
                 thumbnail: true
             });
         });
@@ -1195,12 +1195,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials75');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb75 = $('#aniimated-thumbnials75');
+    if ($animThumb75.length) {
+        $animThumb75.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb75[0], {
                 thumbnail: true
             });
         });
@@ -1208,12 +1208,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials76');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb76 = $('#aniimated-thumbnials76');
+    if ($animThumb76.length) {
+        $animThumb76.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb76[0], {
                 thumbnail: true
             });
         });
@@ -1221,12 +1221,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials77');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb77 = $('#aniimated-thumbnials77');
+    if ($animThumb77.length) {
+        $animThumb77.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb77[0], {
                 thumbnail: true
             });
         });
@@ -1234,12 +1234,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials78');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb78 = $('#aniimated-thumbnials78');
+    if ($animThumb78.length) {
+        $animThumb78.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb78[0], {
                 thumbnail: true
             });
         });
@@ -1247,12 +1247,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials79');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb79 = $('#aniimated-thumbnials79');
+    if ($animThumb79.length) {
+        $animThumb79.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb79[0], {
                 thumbnail: true
             });
         });
@@ -1260,12 +1260,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials80');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb80 = $('#aniimated-thumbnials80');
+    if ($animThumb80.length) {
+        $animThumb80.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb80[0], {
                 thumbnail: true
             });
         });
@@ -1273,12 +1273,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials81');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb81 = $('#aniimated-thumbnials81');
+    if ($animThumb81.length) {
+        $animThumb81.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb81[0], {
                 thumbnail: true
             });
         });
@@ -1286,12 +1286,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials82');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb82 = $('#aniimated-thumbnials82');
+    if ($animThumb82.length) {
+        $animThumb82.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb82[0], {
                 thumbnail: true
             });
         });
@@ -1299,12 +1299,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials83');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb83 = $('#aniimated-thumbnials83');
+    if ($animThumb83.length) {
+        $animThumb83.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb83[0], {
                 thumbnail: true
             });
         });
@@ -1312,12 +1312,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials84');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb84 = $('#aniimated-thumbnials84');
+    if ($animThumb84.length) {
+        $animThumb84.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb84[0], {
                 thumbnail: true
             });
         });
@@ -1325,12 +1325,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials85');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb85 = $('#aniimated-thumbnials85');
+    if ($animThumb85.length) {
+        $animThumb85.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb85[0], {
                 thumbnail: true
             });
         });
@@ -1338,12 +1338,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials86');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb86 = $('#aniimated-thumbnials86');
+    if ($animThumb86.length) {
+        $animThumb86.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb86[0], {
                 thumbnail: true
             });
         });
@@ -1351,12 +1351,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials87');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb87 = $('#aniimated-thumbnials87');
+    if ($animThumb87.length) {
+        $animThumb87.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb87[0], {
                 thumbnail: true
             });
         });
@@ -1364,12 +1364,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials88');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb88 = $('#aniimated-thumbnials88');
+    if ($animThumb88.length) {
+        $animThumb88.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb88[0], {
                 thumbnail: true
             });
         });
@@ -1377,12 +1377,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials89');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb89 = $('#aniimated-thumbnials89');
+    if ($animThumb89.length) {
+        $animThumb89.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb89[0], {
                 thumbnail: true
             });
         });
@@ -1390,12 +1390,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials90');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb90 = $('#aniimated-thumbnials90');
+    if ($animThumb90.length) {
+        $animThumb90.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb90[0], {
                 thumbnail: true
             });
         });
@@ -1403,12 +1403,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials91');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb91 = $('#aniimated-thumbnials91');
+    if ($animThumb91.length) {
+        $animThumb91.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb91[0], {
                 thumbnail: true
             });
         });
@@ -1416,12 +1416,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials92');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb92 = $('#aniimated-thumbnials92');
+    if ($animThumb92.length) {
+        $animThumb92.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb92[0], {
                 thumbnail: true
             });
         });
@@ -1429,12 +1429,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials93');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb93 = $('#aniimated-thumbnials93');
+    if ($animThumb93.length) {
+        $animThumb93.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb93[0], {
                 thumbnail: true
             });
         });
@@ -1442,12 +1442,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials94');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb94 = $('#aniimated-thumbnials94');
+    if ($animThumb94.length) {
+        $animThumb94.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb94[0], {
                 thumbnail: true
             });
         });
@@ -1455,12 +1455,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials95');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb95 = $('#aniimated-thumbnials95');
+    if ($animThumb95.length) {
+        $animThumb95.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb95[0], {
                 thumbnail: true
             });
         });
@@ -1468,12 +1468,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials96');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb96 = $('#aniimated-thumbnials96');
+    if ($animThumb96.length) {
+        $animThumb96.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb96[0], {
                 thumbnail: true
             });
         });
@@ -1481,12 +1481,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials97');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb97 = $('#aniimated-thumbnials97');
+    if ($animThumb97.length) {
+        $animThumb97.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb97[0], {
                 thumbnail: true
             });
         });
@@ -1494,12 +1494,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials98');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb98 = $('#aniimated-thumbnials98');
+    if ($animThumb98.length) {
+        $animThumb98.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb98[0], {
                 thumbnail: true
             });
         });
@@ -1507,12 +1507,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials99');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb99 = $('#aniimated-thumbnials99');
+    if ($animThumb99.length) {
+        $animThumb99.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb99[0], {
                 thumbnail: true
             });
         });
@@ -1520,12 +1520,12 @@ $(document).ready(function() {
 
 
     // Animated thumbnails
-    var $animThumb = $('#aniimated-thumbnials100');
-    if ($animThumb.length) {
-        $animThumb.justifiedGallery({
+    var $animThumb100 = $('#aniimated-thumbnials100');
+    if ($animThumb100.length) {
+        $animThumb100.justifiedGallery({
             border: 6
         }).on('jg.complete', function() {
-            lightGallery($animThumb[0], {
+            lightGallery($animThumb100[0], {
                 thumbnail: true
             });
         });
