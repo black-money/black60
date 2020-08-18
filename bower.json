@@ -1,7 +1,7 @@
 {
   "name": "lightgallery.js",
   "version": "0.0.1",
-  "description": "Full featured lightbox gallery. Zero dependencies",
+  "description": "",
   "main": [
       "dist/js/lightgallery.min.js",
       "dist/css/lightgallery.css",
@@ -22,13 +22,10 @@
       "vimeo"
   ],
   "authors": [
-      "Sachin N <sachi77n@gmail.com>"
+      ""
   ],
-  "homepage": "http://sachinchoolur.github.io/lightGallery/",
-  "repository": {
-      "type": "git",
-      "url": "git://github.com/sachinchoolur/lightGallery.git"
-  },
+  "homepage": "deep60.club",
+
   "license": "Apache-2.0",
   "ignore": [
       "README.md"
